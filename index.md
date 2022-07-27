@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# 沙雕熊猫头？
+只有这个才能……
 
-You can use the [editor on GitHub](https://github.com/7654Fox/phdanimation-sinus.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+___
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+这是一些熊猫头资源，拿走不谢！*无版权*
 
-# Header 1
-## Header 2
-### Header 3
+~~其实我也是从别人那里拿来的，不过加了亿点点细节~~
 
-- Bulleted
-- List
+后期还~~没~~有可能更新
+## 抱走资源
 
-1. Numbered
-2. List
+看什么看？点我干什么？点下边！
 
-**Bold** and _Italic_ and `Code` text
++ ***点我干什么？***
+  - [一键三连！](https://space.bilibili.com/670950647)
+  
+    * [资源-熊猫头----0.1.114514](http://zuoye.free.fr/files/表情-和头.zip)	
+   对了，文件里只有表情。
+   
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/7654Fox/phdanimation-sinus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-
+-
+-
 
-### Support or Contact
+-
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-
+
+-
+
+-
+
+-
+
+
+
+
+[一键三连！](https://space.bilibili.com/670950647)
+
+[C0D3MA0](https://shequ.codemao.cn/user/56908247)
+
+[Github](https://github.com/7654Fox)
