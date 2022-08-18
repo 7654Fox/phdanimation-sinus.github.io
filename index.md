@@ -22,7 +22,8 @@ ___
   
     * [资源-熊猫头----0.1.114514](http://zuoye.free.fr/files/表情-和头.zip)	
    对了，文件里只有表情。
-   
+    * [熊猫头全身骨骼图片15幅----0.1.114514](http://zuoye.free.fr/files/Body.zip)
+    动作用
 
 
 -
